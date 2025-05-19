@@ -25,8 +25,8 @@ class ChanthaPanelProvider extends PanelProvider
         return $panel
             ->default()
             ->id('chantha')
-            ->path('/')
-            ->registration()
+            ->path('chantha')
+            // ->registration()
             ->login()
             ->colors([
                 'primary' => '#008009',
