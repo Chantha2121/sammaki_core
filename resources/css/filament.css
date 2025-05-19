@@ -1,0 +1,4 @@
+Filament::registerRenderHook(
+        'head.end',
+        fn() => '<link rel="stylesheet" href="' . asset('css/filament.css') . '">'
+    );
