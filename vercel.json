@@ -22,7 +22,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your-app-name.vercel.app",
+        "APP_URL": "https://sammaki-core-7oxh.vercel.app/",
         "APP_KEY": "base64:YrB/VCJY+HNzyTyRwIDqozFfLvkDs3rSEV9WzvZVnb8=",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
